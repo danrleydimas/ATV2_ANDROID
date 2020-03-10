@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="it_is_better_to_use">最好使用...</string>
+    <string name="gasoline">" 汽油"</string>
+    <string name="ethanol">乙醇</string>
+    <string name="price_of_liter_of_ethanol">" 一升乙醇的价格"</string>
+    <string name="price_of_liter_of_gasoline">" 汽油价格"</string>
+</resources>

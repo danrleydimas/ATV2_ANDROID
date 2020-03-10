@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="it_is_better_to_use">Es mejor usar ...</string>
+    <string name="gasoline">gasolina</string>
+    <string name="price_of_liter_of_ethanol">" precio litro de etanol"</string>
+    <string name="ethanol">etanol</string>
+    <string name="price_of_liter_of_gasoline">Precio del litro de gasolina</string>
+</resources>

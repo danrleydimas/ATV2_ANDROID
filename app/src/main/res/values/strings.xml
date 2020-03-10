@@ -1,0 +1,7 @@
+<resources>
+    <string name="ethanol">ethanol</string>
+    <string name="price_of_liter_of_ethanol">Price of liter of ethanol</string>
+    <string name="it_is_better_to_use">It is better to use...</string>
+    <string name="gasoline">gasoline</string>
+    <string name="price_of_liter_of_gasoline">Price of liter of gasoline</string>
+</resources>
